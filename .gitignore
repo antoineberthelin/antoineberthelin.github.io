@@ -1,0 +1,4 @@
+# Created by .gitignore support plugin (hsz.mobi)
+_site
+.idea
+atlassian-ide-plugin.xml
